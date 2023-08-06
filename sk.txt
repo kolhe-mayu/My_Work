@@ -1,8 +1,0 @@
-hello  mayu 
-heelo sanket
-
-<<<<<<< HEAD
-dfarfgaerfaer
-=======
-changed something
->>>>>>> 70b5333263e9afe36c505016877aa8adac4b8618
